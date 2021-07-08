@@ -1,0 +1,14 @@
+API
+Application Programming Interface
+API helps to connect/communicate/exchage data between two applications.
+API connection happens via HTTP/HTTPs protocol
+HTTP - HyperText Transfer Protocol
+HTTPs - HyperText Transfer Protocol Secured
+Secured - encrypted.
+Hello world -> SGVsbG8gd29ybGQK
+HTTP operations:
+	CRUD:
+		- Create => POST
+		- Read  => GET
+		- Update => PUT
+		- Delete => DELETE
